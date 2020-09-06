@@ -1,4 +1,4 @@
-# Markdown_Emojis
+# Markdown-Emojis
 
 ## This repository contains all the Markdown emoji codes for Github.
 
